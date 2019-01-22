@@ -1,0 +1,40 @@
+(*
+T: FUNCTION DWORD_WRITE
+FW: NO
+CI#: 221
+QSL: 5
+QVE: 5
+QVPC: 5
+QPar: 4
+QFBI: 0
+*)
+@V 1 6 0
+VALUE	1	VAR_INPUT	@TYP:19
+		     
+
+;
+
+@V 1 7 0
+WB	2	VAR_INPUT	@TYP:3
+		     
+
+;
+
+@V 1 8 0
+IN	3	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+DWORD_WRITE	4	VAR_OUTPUT	@TYP:19
+		     
+
+;
+
+@V 2 1 0
+@T_DWORD_WRITE_00	5	VAR	@TYP:3
+		     
+
+;
+

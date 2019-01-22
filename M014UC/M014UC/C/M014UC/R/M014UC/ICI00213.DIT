@@ -1,0 +1,237 @@
+(*
+T: FUNCTION_BLOCK AVI
+FW: YES	NO_VARIANT AVI SKIP_NOTHING	
+CI#: 213
+QSL: 0
+QVE: 38
+QPar: 26
+QFBI: 0
+*)
+
+WH	1	VAR_INPUT	@TYP:10
+		     
+
+;
+
+
+FAI	2	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 0.00000000E+000
+;
+
+
+BFORCE	3	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+CT	4	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 2.50000000E+001
+;
+
+
+CT_Q	5	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+MST	6	VAR_INPUT	@TYP:18
+		     
+
+;
+
+
+CSTA	7	VAR_INPUT	@TYP:18
+		     
+
+;
+
+
+FQ	8	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+MU	9	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 1.00000000E+002
+;
+
+
+MD	10	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 0.00000000E+000
+;
+
+
+OLQ	11	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+QFIA	12	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 0.00000000E+000
+;
+
+
+QFM	13	VAR_INPUT	@TYP:17
+		     
+@TYP:17# 00#00
+;
+
+
+LCV	14	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 0.00000000E+000
+;
+
+
+SD	15	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 2.50000000E+000
+;
+
+
+OEL	16	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 1.00000000E+001
+;
+
+
+SQ	17	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+OLT	18	VAR_INPUT	@TYP:17
+		     
+@TYP:17# 00#00
+;
+
+
+TP	19	VAR_INPUT	@TYP:17
+		     
+@TYP:17# 00#06
+;
+
+
+AVR	20	VAR_OUTPUT	@TYP:10
+		     
+
+;
+
+
+AV	21	VAR_OUTPUT	@TYP:10
+		     
+
+;
+
+
+Q	22	VAR_OUTPUT	@TYP:1
+		     
+
+;
+
+
+CST	23	VAR_OUTPUT	@TYP:18
+		     
+
+;
+
+
+MSE	24	VAR_OUTPUT	@TYP:1
+		     
+
+;
+
+
+QTYP	25	VAR_OUTPUT	@TYP:17
+		     
+
+;
+
+
+MS	26	VAR_OUTPUT	@TYP:1
+		     
+
+;
+
+
+C_BFORCE	27	VAR	@TYP:17
+		     
+
+;
+
+
+C_CTQ	28	VAR	@TYP:17
+		     
+
+;
+
+
+C_FQ	29	VAR	@TYP:17
+		     
+
+;
+
+
+C_OLQ	30	VAR	@TYP:17
+		     
+
+;
+
+
+C_SQ	31	VAR	@TYP:17
+		     
+
+;
+
+
+C_Q	32	VAR	@TYP:17
+		     
+
+;
+
+
+C_MSE	33	VAR	@TYP:17
+		     
+
+;
+
+
+C_MS	34	VAR	@TYP:17
+		     
+
+;
+
+
+LASTAV	35	VAR	@TYP:10
+		     
+
+;
+
+
+LASTFAI	36	VAR	@TYP:10
+		     
+
+;
+
+
+LASTHIGHFLAG	37	VAR	@TYP:17
+		     
+
+;
+
+
+LASTLOWFLAG	38	VAR	@TYP:17
+		     
+
+;
+

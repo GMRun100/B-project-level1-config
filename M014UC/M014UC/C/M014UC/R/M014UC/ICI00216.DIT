@@ -1,0 +1,177 @@
+(*
+T: FUNCTION_BLOCK AM
+FW: YES	NO_VARIANT AM SKIP_NOTHING	
+CI#: 216
+QSL: 0
+QVE: 28
+QPar: 18
+QFBI: 0
+*)
+
+AI	1	VAR_INPUT	@TYP:10
+		     
+
+;
+
+
+FAI	2	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 0.00000000E+000
+;
+
+
+BFORCE	3	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+FQ	4	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+QIN	5	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+MU	6	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 1.00000000E+002
+;
+
+
+MD	7	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 0.00000000E+000
+;
+
+
+OLQ	8	VAR_INPUT	@TYP:1
+		     
+
+;
+
+
+SD	9	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 2.50000000E+000
+;
+
+
+OEL	10	VAR_INPUT	@TYP:10
+		     
+@TYP:10# 1.00000000E+001
+;
+
+
+OLT	11	VAR_INPUT	@TYP:17
+		     
+@TYP:17# 00#00
+;
+
+
+AVR	12	VAR_OUTPUT	@TYP:10
+		     
+
+;
+
+
+AV	13	VAR_OUTPUT	@TYP:10
+		     
+
+;
+
+
+Q	14	VAR_OUTPUT	@TYP:1
+		     
+
+;
+
+
+MSE	15	VAR_OUTPUT	@TYP:1
+		     
+
+;
+
+
+QTYP	16	VAR_OUTPUT	@TYP:17
+		     
+
+;
+
+
+QST	17	VAR_OUTPUT	@TYP:18
+		     
+
+;
+
+
+MS	18	VAR_OUTPUT	@TYP:1
+		     
+
+;
+
+
+C_BFORCE	19	VAR	@TYP:17
+		     
+
+;
+
+
+C_FQ	20	VAR	@TYP:17
+		     
+
+;
+
+
+C_OLQ	21	VAR	@TYP:17
+		     
+
+;
+
+
+C_Q	22	VAR	@TYP:17
+		     
+
+;
+
+
+C_MSE	23	VAR	@TYP:17
+		     
+
+;
+
+
+C_MS	24	VAR	@TYP:17
+		     
+
+;
+
+
+C_QIN	25	VAR	@TYP:17
+		     
+
+;
+
+
+LASTFAI	26	VAR	@TYP:10
+		     
+
+;
+
+
+LASTHIGHFLAG	27	VAR	@TYP:17
+		     
+
+;
+
+
+LASTLOWFLAG	28	VAR	@TYP:17
+		     
+
+;
+

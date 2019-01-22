@@ -1,0 +1,304 @@
+(*
+T: FUNCTION_BLOCK KC
+FW: NO
+CI#: 217
+QSL: 49
+QVE: 49
+QVPC: 49
+QPar: 25
+QFBI: 0
+*)
+@V 1 6 0
+TO1	1	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 7 0
+TO2	2	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 8 0
+TO3	3	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 9 0
+TO4	4	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 10 0
+TO5	5	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 11 0
+TO6	6	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 12 0
+TO7	7	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 13 0
+TO8	8	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 14 0
+TOS	9	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 15 0
+TOR	10	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 16 0
+SW	11	VAR_INPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 21 0
+MODE1	12	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 22 0
+MODE2	13	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 23 0
+MODE3	14	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 24 0
+MODE4	15	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 25 0
+MODE5	16	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 26 0
+MODE6	17	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 27 0
+MODE7	18	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 28 0
+MODE8	19	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 29 0
+SET	20	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 30 0
+RESET	21	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 31 0
+PR	22	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 32 0
+SO	23	VAR_OUTPUT	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 33 0
+PAKOUT	24	VAR_OUTPUT	@TYP:19
+		     
+@TYP:19# 00#00000000
+;
+
+@V 1 38 0
+MCIN	25	VAR_INPUT	@TYP:18
+		     
+@TYP:18# 00#0000
+;
+
+@V 1 43 0
+MCIN0	26	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 44 0
+MCIN1	27	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 45 0
+MCIN2	28	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 46 0
+MCIN3	29	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 47 0
+MCIN4	30	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 48 0
+MCIN5	31	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 49 0
+MCIN6	32	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 50 0
+MCIN7	33	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 51 0
+MCIN8	34	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 52 0
+MCIN9	35	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 53 0
+MCIN10	36	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 54 0
+MCIN11	37	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 55 0
+preMCIN0	38	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 56 0
+preMCIN1	39	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 57 0
+preMCIN2	40	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 58 0
+preMCIN3	41	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 59 0
+preMCIN4	42	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 60 0
+preMCIN5	43	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 61 0
+preMCIN6	44	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 62 0
+preMCIN7	45	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 63 0
+preMCIN8	46	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 64 0
+preMCIN9	47	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 65 0
+preMCIN10	48	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+
+@V 1 66 0
+preMCIN11	49	VAR	@TYP:1
+		     
+@TYP:1# 0
+;
+

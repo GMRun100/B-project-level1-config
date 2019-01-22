@@ -1,0 +1,88 @@
+(*
+T: FUNCTION_BLOCK DWORD_TO_4WORD
+FW: NO
+CI#: 219
+QSL: 13
+QVE: 13
+QVPC: 13
+QPar: 7
+QFBI: 0
+*)
+@V 1 6 0
+IN	1	VAR_INPUT	@TYP:19
+		     
+
+;
+
+@V 1 7 0
+MODE	2	VAR_INPUT	@TYP:3
+		     
+
+;
+
+@V 1 12 0
+TEMP_FF	3	VAR	@TYP:19
+		     
+@TYP:19# 00#000000ff
+;
+
+@V 1 13 0
+IN_A	4	VAR	@TYP:18
+		     
+
+;
+
+@V 1 14 0
+IN_B	5	VAR	@TYP:18
+		     
+
+;
+
+@V 1 15 0
+IN_C	6	VAR	@TYP:18
+		     
+
+;
+
+@V 1 16 0
+IN_D	7	VAR	@TYP:18
+		     
+
+;
+
+@V 1 21 0
+OUT_1	8	VAR_OUTPUT	@TYP:18
+		     
+
+;
+
+@V 1 22 0
+OUT_2	9	VAR_OUTPUT	@TYP:18
+		     
+
+;
+
+@V 1 23 0
+OUT_3	10	VAR_OUTPUT	@TYP:18
+		     
+
+;
+
+@V 1 24 0
+OUT_4	11	VAR_OUTPUT	@TYP:18
+		     
+
+;
+
+@V 1 25 0
+STATUS	12	VAR_OUTPUT	@TYP:1
+		     
+
+;
+
+@V 2 16 0
+@T_DWORD_TO_4WORD_00	13	VAR	@TYP:3
+		     
+
+;
+

@@ -1,0 +1,34 @@
+(*
+T: FUNCTION WORD_GET
+FW: NO
+CI#: 220
+QSL: 4
+QVE: 4
+QVPC: 4
+QPar: 3
+QFBI: 0
+*)
+@V 1 6 0
+VALUE	1	VAR_INPUT	@TYP:18
+		     
+
+;
+
+@V 1 7 0
+WB	2	VAR_INPUT	@TYP:3
+		     
+
+;
+
+
+WORD_GET	3	VAR_OUTPUT	@TYP:1
+		     
+
+;
+
+@V 2 1 0
+@T_WORD_GET_00	4	VAR	@TYP:3
+		     
+
+;
+

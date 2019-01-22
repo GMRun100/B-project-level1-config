@@ -1,0 +1,7 @@
+Library List, V40
+USER;C:\Users\Public\Documents\MULTIPROG\Libraries\CONTROL;LIST;0
+FW;C:\ProgramData\KW-Software\MULTIPROG\5_35_541\plc\FW_LIB\CNCSDPFWLib;CNCSDPFWLib;3
+FW;C:\ProgramData\KW-Software\MULTIPROG\5_35_541\plc\FW_LIB\CNCSIOFWLib;CNCSIOFWLib;3
+USER;C:\Program Files (x86)\KW-Software\MULTIPROG 5.35 Build 541\plc\FW_LIB\DWORD24WORD;LIST;0
+FW;C:\Program Files (x86)\KW-Software\MULTIPROG 5.35 Build 541\PLC\PPC_40;PPC_40;0
+FW;C:\Program Files (x86)\KW-Software\MULTIPROG 5.35 Build 541\PLC;IEC;3
